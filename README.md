@@ -1,0 +1,2 @@
+# SuperManagerVerseGo
+Python script
